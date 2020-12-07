@@ -7,3 +7,4 @@ export MAIL_PASSWORD=kigali123!
 
 python3.6 manage.py server
 
+
